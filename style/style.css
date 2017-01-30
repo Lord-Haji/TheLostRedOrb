@@ -1,0 +1,46 @@
+.header {
+	color: #B22222;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: monospace;
+}
+.textbody {
+	border-radius: 12px;
+	border: 1.5px solid #B22222;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-top: 8px;
+	margin-bottom: 8px;
+	background: rgba(221, 0, 72, 0.3);
+	font-family: "lucida sans unicode", "lucida grande", sans-serif;
+	font-size: 10px;
+	cursor:url(http://cdn.wallpapersafari.com/75/74/qmvDzL.png), auto;
+}
+body {
+	margin-right: 15%;
+	margin-left: 15%;
+	background-image:url("http://wallpoper.com/images/00/34/24/96/pokemon-clouds_00342496.jpg");
+	background-repeat: no-repeat;
+   	background-attachment: fixed;
+    	background-position: center; 	
+}
+button {
+	background-color: #8B0000;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 10px;
+	border-radius: 6px;
+	border: 2px solid #FF0000;
+	font-family: monospace;
+	font-size: 10px;
+	padding: 2px 7px;
+	font-size: 13px;
+	transition: all 0.3s ease 0s;
+	position: relative;
+	text-align: center;
+}
+button:hover {
+	background-color: #B22222
+}
